@@ -6,7 +6,7 @@
 .contenedor {
     width: 100%;
     height: 100vh;
-    background: url(Imagenes/modelo4.jpg);
+    background: url(../Imagenes/modelo4.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -89,16 +89,16 @@ button{
     transition: transform 0.5s;
 }
 .multimedia1{
-    background-image: url(Imagenes/sombras.jpg);
+    background-image: url(../Imagenes/sombras.jpg);
 }
 .multimedia2{
-    background-image: url(Imagenes/labial.jpg);
+    background-image: url(../Imagenes/labial.jpg);
 }
 .multimedia3{
-    background-image: url(Imagenes/delineador.jpg);
+    background-image: url(../Imagenes/delineador.jpg);
 }
 .multimedia4{
-    background-image: url(Imagenes/brochas.jpg);
+    background-image: url(../Imagenes/brochas.jpg);
 }
 
 .multimedia:hover{
